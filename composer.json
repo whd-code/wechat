@@ -1,0 +1,12 @@
+{
+    "name": "whd-code/whchat",
+    "description": "whchat-lear",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "whdcode",
+            "email": "15167659828@163.com"
+        }
+    ],
+    "require": {}
+}
